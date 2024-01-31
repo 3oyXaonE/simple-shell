@@ -1,0 +1,1 @@
+basic shell of a shell no pun intended. https://brennan.io/2015/01/16/write-a-shell-in-c/ as a guide props to the dude. still has one weird-ass "feature", sometimes you have to type exit a few times. honestly, its past bedtime and i cant be bothered to look into whats going on prolly some shenanigans. this one actually readable btw feel free.
